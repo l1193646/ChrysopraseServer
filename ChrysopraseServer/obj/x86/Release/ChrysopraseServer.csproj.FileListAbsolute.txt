@@ -1,0 +1,7 @@
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\bin\Release\ChrysopraseServer.exe
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\bin\Release\ChrysopraseServer.pdb
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\bin\Release\NetworkCommons.dll
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\bin\Release\NetworkCommons.pdb
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\obj\x86\Release\ChrysopraseServer.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\obj\x86\Release\ChrysopraseServer.exe
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\ChrysopraseServer\obj\x86\Release\ChrysopraseServer.pdb

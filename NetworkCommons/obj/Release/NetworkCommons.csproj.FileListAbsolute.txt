@@ -1,0 +1,4 @@
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\NetworkCommons\bin\Release\NetworkCommons.dll
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\NetworkCommons\bin\Release\NetworkCommons.pdb
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\NetworkCommons\obj\Release\NetworkCommons.dll
+C:\Users\Sergio\Documents\Projects\CSharp\ChrysopraseServer\NetworkCommons\obj\Release\NetworkCommons.pdb
